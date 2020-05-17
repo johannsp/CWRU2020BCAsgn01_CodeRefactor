@@ -155,7 +155,8 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+/* EDIT: Change "social-media-marketing" to use id not class */
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -173,7 +174,8 @@ p {
     max-height: 200px;
 }
 
-.social-media-marketing img {
+/* EDIT: Change "social-media-marketing" to use id not class */
+#social-media-marketing img {
     max-height: 200px;
 }
 
@@ -188,7 +190,8 @@ p {
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+/* EDIT: Change "social-media-marketing" to use id not class */
+#social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
