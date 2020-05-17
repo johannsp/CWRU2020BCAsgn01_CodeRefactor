@@ -8,23 +8,24 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* EDIT: Replace class .header with nav tag */
+nav {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+nav h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+nav h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+nav div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+nav div ul {
     list-style-type: none;
 }
 
-.header div ul li {
+nav div ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -134,7 +135,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* EDIT: Change "search-engine-optimization" to use id not class */
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,7 +145,8 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+/* EDIT: Change "online-reputation-management" to use id not class */
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,11 +164,12 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* EDIT: Change "online-reputation-management" to use id not class */
+#online-reputation-management img {
     max-height: 200px;
 }
 
@@ -173,12 +177,13 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+/* EDIT: Change "online-reputation-management" to use id not class */
+#online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -188,13 +193,15 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/* EDIT: Replace class .footer with footer tag */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+/* EDIT: Replace class .footer with footer tag */
+footer h2 {
     font-size: 20px;
 }
