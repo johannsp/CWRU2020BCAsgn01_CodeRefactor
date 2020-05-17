@@ -6,10 +6,10 @@ practices and correct any problems that are discovered.
 
 Changes include:
 - Change generic title "website" to "Horiseon" to match heading 1
-- Replace instances of div with a specialized use with
+- Replace instances of div with a specialized use with new HTML 5 tags:
   - nav
   - footer
-  - asside
+  - aside
 - In some places where either duplicate class and id attributes are defined for
 unique elements, eliminate the class attribute and adjust the CSS to use the id.
 - In one place (Search Engine Optimization) there a unique class with no id causing
