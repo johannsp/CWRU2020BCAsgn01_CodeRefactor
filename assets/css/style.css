@@ -8,8 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
-/* EDIT: Replace class .header with nav tag */
-nav {
+/* EDIT: Replace class .header with nav and main tags */
+nav,
+main {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -70,7 +71,8 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* EDIT: Replace class .content with main tag */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
