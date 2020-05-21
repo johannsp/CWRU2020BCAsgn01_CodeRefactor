@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* EDIT: Replace class .header with nav tags */
+/* EDIT: Replace class .header with nav tag */
 nav {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,7 +51,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* EDIT: Replace class .hero with header tag */
+header {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
