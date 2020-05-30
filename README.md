@@ -1,8 +1,14 @@
-# CWRU2020BCAsgn01_CodeRefactor
-Coding Bootcamp Assignment 1--Refactor HTML and CSS for a website
+# CWRUBC-Code-Refactor
+Perform Code Refactor on website:
 
-Refactor the sample Horiseon website as an exercise.  Apply some newer best
-practices and correct any problems that are discovered.
+Link:
+https://johannsp.github.io/CWRUBC-Code-Refactor/
+
+Preview:
+![Horiseon website preview](https://johannsp.github.io/CWRUBC-Code-Refactor/preview/Horiseon_website_preview.png)
+
+Refactor the Horiseon website.  Apply some newer best practices and correct any
+problems that are discovered.
 
 Changes include:
 - Change generic title "website" to "Horiseon" to match heading 1
