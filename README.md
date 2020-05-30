@@ -5,7 +5,7 @@ Link:
 https://johannsp.github.io/CWRUBC-Code-Refactor/
 
 Preview:
-![Horiseon website preview](https://johannsp.github.io/CWRUBC-Code-Refactor/preview/Horiseon_website_preview.png)
+![Horiseon-website-preview.png](https://postimg.cc/p9hL6pYz)
 
 Refactor the Horiseon website.  Apply some newer best practices and correct any
 problems that are discovered.
